@@ -1,0 +1,17 @@
+{
+  "name": "rest_winds",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/app",
+  "scripts": {
+    "start": "node_modules/.bin/nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.12",
+    "nodemon": "^1.18.6"
+  }
+}
